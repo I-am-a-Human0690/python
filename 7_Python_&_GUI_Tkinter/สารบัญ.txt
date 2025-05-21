@@ -1,0 +1,25 @@
+1_สร้างหน้าจอด้วย_Tk
+2 - กำหนดขนาดและตำแหน่งด้วย Geometry
+3 - แสดงข้อความด้วย Label
+4 - จัดเรียง Widget ด้วย Place และ Grid
+5 - การสร้างปุ่ม (Button)
+6 - Button Command
+7 - การสร้างกล่องข้อความ (TextBox)
+8 - การสร้างหน้าจอหลายๆหน้า (Multiple GUI)
+9 - การสร้างเมนู (Menu)
+10 - การสร้างเมนูย่อย (Menu Item)
+11 - Menu Command
+12 - MessageBox
+13 - ปิดโปรแกรมด้วย Destroy
+14 - หน้าต่างเลือกสี (Color Chooser)
+15 - หน้าต่างเลือกไฟล์ (File Dialog)
+16 - อ่านเนื้อหาจากไฟล์
+17 - Radio Button (Single Choice)
+18 - เลือกตัวเลือกเดียวด้วย Command
+19 - Check Button (Multiple Choice)
+20 - เลือกหลายตัวเลือกด้วย Command
+21 - EntryBox
+22 - โปรแกรมคำนวณพื้นที่วงกลม
+23 - ComboBox
+24 - โปรแกรมแปลงสกุลเงิน
+25 - โปรแกรมเครื่องคิดเลข

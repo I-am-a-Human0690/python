@@ -1,0 +1,1 @@
+print('Python & Pandas ตอนที่ 8 - ติดตั้ง Jupyter Notebook')
